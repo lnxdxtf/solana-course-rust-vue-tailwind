@@ -1,0 +1,8 @@
+const homeMixin = {
+    data() {
+        return {
+
+        }
+    },
+    
+}
